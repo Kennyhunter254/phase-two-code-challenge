@@ -1,0 +1,51 @@
+.App {
+  text-align: center;
+  padding: 10px;
+}
+
+.bot-collection, .your-bot-army {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+
+.bot-card {
+  border: 1px solid #ccc;
+  padding: 10px;
+  width: 100px;
+  text-align: center;
+}
+
+.bot-card img {
+  width: 100%;
+  height: auto;
+}
+
+.delete-button {
+  background-color: red;
+  color: white;
+  border: none;
+  padding: 5px;
+  cursor: pointer;
+}
+
+
+
+.bot-card {
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 8px;
+  width: 250px;
+  text-align:center;
+  font-size: small;
+  font-weight: 350;
+}
+
+.bot-card img {
+  width: 100%;
+  border-radius: 8px;
+}
+
+
